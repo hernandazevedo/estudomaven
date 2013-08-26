@@ -1,3 +1,0 @@
-mvn eclipse:clean  //limpar as configuracoes do plugin que integra o maven com o eclipse
-mvn eclipse:eclipse -Dwtpversion=2.0  // coloca as dependencias do pom como dependencias visiveis pelo eclipse, 
-					alem de gerar a Facet de webapp do e deployment descriptor
